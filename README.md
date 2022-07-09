@@ -1,5 +1,5 @@
-# Sway: a Rust-based Smart Contract Language
-## EthDubai 2022
+# A year's progress in Sway, the smart contract language for the FuelVM.
+## EthCC 2022
 
 Hosted here: https://sezna.github.io/EthDubai-2022
 

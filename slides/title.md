@@ -1,11 +1,13 @@
-## Sway: Writing Smart Contracts for the FuelVM
+## A year's progress in Sway, the smart contract language for the FuelVM.
 
 Alex Hansen
 
 Fuel Labs
 
 Note:
-This talk will presume some level of elementary familiarity with both Solidity and Rust, but, if you have any questions, do feel free to ask.
-This talk will also contain a lot of code examples and A/B comparisions, essentially amounting to a tutorial in Sway for those who know Solidity.
-I will do my best to impart my jovial personality on this lecture, hopefully influencing your impressions of our language.
-My name is Alex, the main compiler engineer at Fuel.
+Last year I gave a talk at this same conference. There, we announced a new open source smart contract development language.
+We have been hard at work for a year, and we have more contributors than ever. We work out in the open, so perhaps you
+have seen our repositories. 
+
+I'm going to cover the progress we have made since last year's announcement and why exactly you should be learning Sway, or
+at the very least, being excited about it. 
